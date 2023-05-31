@@ -1,7 +1,7 @@
 # Exploit Author : EagleEye
 # Github : https://github.com/EagleTube/
 # Youtube : https://www.youtube.com/@EagleTube1337
-# Title : Sudo Privilege Escalation on clpctlWrapper + path traversal
+# Title : Privilege Escalation through path traversal from file access modification
 # Version Tested : CloudPanel v2.2.2
 # Telegram : @NOP_0x90
 
