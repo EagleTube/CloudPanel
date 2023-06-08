@@ -37,4 +37,5 @@ CloudPanel v2.3.0
 ## SPECIAL THANKS & REFERENCE
 1. Datack Sdn Bhd <a href="https://www.datack.my/how-we-gain-cve-2023-33747-cloudpanel-io/">datack.my</a>
 2. Maui <a href="https://sabily.info">sabily.info</a>
+3. Farhan Phakhruddin (@badimayat)
 
