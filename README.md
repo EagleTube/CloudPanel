@@ -1,6 +1,7 @@
 # CVE-2023-33747 Cloudpanel.io
 
 Author: @EagleTube<br>
+Github : https://github.com/EagleTube/CloudPanel/tree/main/CVE-2023-33747
 Tested version: v2.0.0 – v2.2.2<br>
 Patched version: v2.3.0<br>
 Vendor homepage: CloudPanel.io<br>
