@@ -41,10 +41,10 @@ CloudPanel v2.3.0
 3. Farhan Phakhruddin (@badimayat)
 
 ## TIMELINE
-14-05-2023 – Exploit Found
-16-05-2023 – Privately disclose to vendor
-17-05-2023 – Submitted to CVE assignee
-31-05-2023 – CVE number assigned by MITRE
-06-06-2023 – Patch released by the vendor (v2.3.0)
+14-05-2023 – Exploit Found<br>
+16-05-2023 – Privately disclose to vendor<br>
+17-05-2023 – Submitted to CVE assignee<br>
+31-05-2023 – CVE number assigned by MITRE<br>
+06-06-2023 – Patch released by the vendor (v2.3.0)<br>
 06-06-2023 – Exploit released to the public
 
