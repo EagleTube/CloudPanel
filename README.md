@@ -13,3 +13,6 @@ CloudPanel v2.0.0 - v2.2.2
 
 # PATCH VERSION
 CloudPanel v2.3.0
+
+# READ
+<a href="https://www.datack.my/how-we-gain-cve-2023-33747-cloudpanel-io/">www.datack.my</a>
