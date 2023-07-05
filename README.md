@@ -24,7 +24,6 @@ Privilege Escalation in CloudPanel through path traversal from modifying file pe
 <br><br>
 <img src='https://raw.githubusercontent.com/EagleTube/CloudPanel/main/Screenshot%20from%202023-06-06%2014-56-42.png'>
 
-## CVE-????-????
 Privilege Escalation in CloudPanel through command injection from clpctlWrapper.
 <br><br>
 <img src='https://raw.githubusercontent.com/EagleTube/CloudPanel/main/Screenshot%20from%202023-06-06%2015-00-21.png'>
