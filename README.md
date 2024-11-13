@@ -18,3 +18,15 @@ CloudPanel’s web-based management interface runs on port `8443`. To secure thi
    ```bash
    # Allow access to port 8443 only from a specific IP
    sudo ufw allow from <YOUR_TRUSTED_IP> to any port 8443
+   
+2. **For Business Use:**
+   - Always keep CloudPanel updated to the latest version to ensure you have the latest security patches and features. Updates often include critical fixes for known vulnerabilities.
+   - Ensure proper firewall configurations to restrict access to trusted IPs where possible, especially if handling sensitive data.
+  
+### 📄 Keeping CloudPanel Updated
+
+Keeping your CloudPanel updated is essential to prevent potential security risks. Here’s how to update:
+   - Run the update command regularly:
+   ```bash
+   sudo clpctl-update
+   - Set up an update schedule to check and apply updates automatically or as part of your regular maintenance routine.
