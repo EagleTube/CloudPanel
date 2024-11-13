@@ -29,4 +29,9 @@ Keeping your CloudPanel updated is essential to prevent potential security risks
    - Run the update command regularly:
    ```bash
    sudo clpctl-update
+   ```
    - Set up an update schedule to check and apply updates automatically or as part of your regular maintenance routine.
+
+### Documentation and Support
+- **Official Documentation**: [CloudPanel Docs](https://cloudpanel.io/docs)
+- **Community Forum**: [CloudPanel Forum](https://community.cloudpanel.io)
