@@ -34,4 +34,4 @@ Keeping your CloudPanel updated is essential to prevent potential security risks
 
 ### Documentation and Support
 - **Official Documentation**: [CloudPanel Docs](https://cloudpanel.io/docs)
-- **Community Forum**: [CloudPanel Forum](https://community.cloudpanel.io)
+- **Community Forum**: [CloudPanel Discord](https://discord.cloudpanel.io/)
