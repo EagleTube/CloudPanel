@@ -160,7 +160,3 @@ If untrusted data is still being unserialized, the vulnerability often isn’t g
 it’s simply waiting for someone to look at it from a different angle.
 
 ---
-
-
-The escalation chain was immediate:
-
