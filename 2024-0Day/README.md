@@ -105,13 +105,13 @@ Once remote code execution was obtained:
 - execution ran as the `clp` user
 - the `clp` user was configured with **passwordless sudo**
 
-Pre-Auth RCE
-↓
-clp user
-↓
-sudo (NOPASSWD)
-↓
-root
+Pre-Auth RCE<br>
+↓<br>
+clp user<br>
+↓<br>
+sudo (NOPASSWD)<br>
+↓<br>
+root<br>
 
 
 From unauthenticated access to full system compromise — in one chain.
